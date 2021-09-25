@@ -1,0 +1,42 @@
+.imagem-redonda{
+    border: 5px solid white;
+    border-radius: 50%;
+  }
+  
+  #cabecalho{
+    background-size: cover;
+  }
+  
+  #cabecalho img{
+    width: 100px;
+    height: 100px;
+  display: block;
+    margin: auto;
+  }
+  
+  .secao{
+    border-radius: 10%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #ed9ea6;
+  }
+  
+  #cabecalho p{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24pt;
+  }
+  
+  h1{
+    font-size: 15pt;
+    color: #F0F8FF;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+  }
+  
+  h1 span{
+    border: 4px dashed white;
+  }
